@@ -20,7 +20,7 @@ The number of fatalities has also significantly reduced over time. The count  wa
 
 Visualizations
 
-For the visualizations we use a sample of the data from 1963-2023 for more clarity and focus on modern aircraft. https://public.tableau.com/authoring/Phase1project_17593386578490/Sheet2/Dashboard%201#1
+For the visualizations we use a sample of the data from 1963-2023 for more clarity and focus on modern aircraft. https://public.tableau.com/app/profile/maryann.ngongi/viz/Phase1project_17593386578490/Dashboard1
 
 Conclusion
 
